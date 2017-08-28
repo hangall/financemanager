@@ -40,7 +40,7 @@ class KreissparkasseKoelnView extends React.Component {
                             style={{width:500}}
                             hintText="Kontonummer"
                             floatingLabelText="Kontonummer"
-                            defaultValue="1310020216"
+                            defaultValue="XXX"
                         /><br/>
                         <TextField
                             style={{width:500}}
